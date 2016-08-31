@@ -1,6 +1,8 @@
 # Slushi Cache
 A Drupal database cache backend where permanent is really only semi-permanent.
 
+If you're using a database based cache backend and seeing tables like `{cache_render}` and `{cache_dynamic_page_cache}` grow over time, then this might be the module for you.
+
 # Installation
 Download and enable the module.
 
