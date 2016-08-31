@@ -1,0 +1,14 @@
+{
+  "name": "drupal/slushi_cache",
+  "type": "drupal-module",
+  "description": "Provides a cache backend that puts a limit on what constitutes 'permanent'.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/larowlan/slushi_cache",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/larowlan/slushi_cache/issues",
+    "source": "https://github.com/larowlan/slushi_cache"
+  },
+  "require": { }
+}

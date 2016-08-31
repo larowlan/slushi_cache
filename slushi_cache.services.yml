@@ -1,0 +1,5 @@
+services:
+  cache.backend.slushi:
+    class: Drupal\slushi_cache\SlushiBackendFactory
+    arguments: ['@database', '@cache_tags.invalidator.checksum', '@settings']
+

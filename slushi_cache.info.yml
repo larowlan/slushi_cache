@@ -1,0 +1,4 @@
+name: Slushi cache
+type: module
+description: "Provides a cache backend that puts a limit on what constitutes 'permanent'."
+core: 8.x
